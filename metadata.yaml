@@ -1,0 +1,28 @@
+_repo: Aisopolaisia-Satuja_51309
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Roos, Samuel
+    gutenberg_agent_id: '46294'
+    url: http://www.gutenberg.org/2009/agents/46294
+creator:
+  author:
+    agent_name: Phaedrus
+    alias: Caius Julius Phaedrus
+    gutenberg_agent_id: '31383'
+    url: http://www.gutenberg.org/2009/agents/31383
+description: ''
+gutenberg_issued: '2016-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51309'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Fables, Latin -- Translations into Finnish'
+- GITenberg
+title: Aisopolaisia Satuja
+url: http://www.gutenberg.org/ebooks/51309
